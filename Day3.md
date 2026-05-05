@@ -95,3 +95,6 @@ From what I learned:
 ---
 
 📌 Follow along as I simplify SFMC step by step 👇
+
+<img width="1536" height="1024" alt="Copilot_20260505_095746" src="https://github.com/user-attachments/assets/fbd58ee2-8acb-44a1-bcac-bce09ba333ae" />
+
