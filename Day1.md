@@ -1,5 +1,53 @@
 # 📅 Day 1 – SFMC Learning Series | Learn with Me
 
+## 🚀 What is Salesforce Marketing Cloud & Why Should You Care?
+
+---
+
+👋 I'm **Lai Truong** — Senior SFMC Developer with 5 years of enterprise experience across **Healthcare & Life Sciences, Manufacturing & Financial services**.  
+For the next 30 days, I’m breaking down SFMC from scratch — ending with a complete real-world project built like an enterprise implementation.  
+
+👉 Beginner or developer leveling up — this series is for you.  
+
+---
+
+### 🔷 What is SFMC?
+An **enterprise marketing platform by Salesforce** that helps brands reach customers across **Email, SMS, Push & Web** — at massive scale, with AI built in.  
+
+---
+
+### 🏢 Why Companies Choose It
+✅ Send millions of personalized messages in minutes  
+✅ Trigger the right message based on real behavior  
+✅ Native Salesforce CRM + Data Cloud integration  
+✅ GDPR, CAN-SPAM, TCPA compliance built in  
+
+---
+
+### 🧱 Core Tools
+📧 **Email Studio**  
+🔄 **Journey Builder**  
+⚙️ **Automation Studio**  
+📱 **Mobile Studio**  
+📊 **Analytics Builder**  
+🌐 **Cloud Pages**  
+✨ **Marketing Cloud Personalization**  
+🗄️ **Data Cloud**  
+
+---
+
+### 🤖 AI & Agentforce in SFMC
+- ⚡ **Einstein STO** → Sends at the perfect time per subscriber  
+- ⚡ **Engagement Scoring** → Predicts who’ll engage or churn  
+- ⚡ **Agentforce** → AI agents that segment, draft & optimize autonomously  
+- ⚡ **Einstein Copy Insights** → AI-powered subject line recommendations based on your own campaign performance data, directly inside Email Studio  
+
+💡 **Insight:** AI doesn’t replace the SFMC developer.  
+It multiplies what one great developer can deliver.  
+
+---
+
+
 ## 📊 Understanding Data Extensions vs Lists vs Subscribers in SFMC
 
 If you're starting with Salesforce Marketing Cloud, one of the first confusions is:
