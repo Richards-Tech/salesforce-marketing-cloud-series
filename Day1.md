@@ -49,3 +49,4 @@ If you understand **Data Extensions + Subscriber Key** properly,
 ---
 
 📌 Follow along as I break down SFMC concepts step by step.
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/0d202e50-1d8b-425f-95ed-4a2a667044c3" />
