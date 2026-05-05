@@ -73,3 +73,6 @@ Initially I tried using only one DE for everything, but in real scenarios, separ
 ---
 
 📌 Follow along as I break down SFMC concepts in a simple, practical way 👇
+
+<img width="1536" height="1024" alt="Copilot_20260505_095435" src="https://github.com/user-attachments/assets/e529df28-4a6e-4391-ae17-e661fb5f521c" />
+
